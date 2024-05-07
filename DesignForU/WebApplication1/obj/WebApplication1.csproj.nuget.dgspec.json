@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FU\\Semester 8\\PRN231\\DesignForU\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\Admin\\Downloads\\Ducngunhulon\\BookSurvey\\DesignForU\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "D:\\FU\\Semester 8\\PRN231\\DesignForU\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\Admin\\Downloads\\Ducngunhulon\\BookSurvey\\DesignForU\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FU\\Semester 8\\PRN231\\DesignForU\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\Ducngunhulon\\BookSurvey\\DesignForU\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "D:\\FU\\Semester 8\\PRN231\\DesignForU\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "C:\\Users\\Admin\\Downloads\\Ducngunhulon\\BookSurvey\\DesignForU\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\FU\\Semester 8\\PRN231\\DesignForU\\WebApplication1\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Downloads\\Ducngunhulon\\BookSurvey\\DesignForU\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
